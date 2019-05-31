@@ -1,0 +1,9 @@
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\bin\Debug\CapaQuerys.dll
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\bin\Debug\CapaQuerys.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\obj\Debug\CapaQuerys.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\obj\Debug\CapaQuerys.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\obj\Debug\CapaQuerys.dll
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\obj\Debug\CapaQuerys.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\bin\Debug\CapaSQL.dll
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\bin\Debug\CapaSQL.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaQuerys\obj\Debug\CapaQuerys.csproj.CopyComplete

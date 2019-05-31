@@ -1,0 +1,6 @@
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\bin\Debug\CapaSQL.dll
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\bin\Debug\CapaSQL.pdb
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\obj\Debug\CapaSQL.csprojAssemblyReference.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\obj\Debug\CapaSQL.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\obj\Debug\CapaSQL.dll
+C:\Users\oscar\Desktop\Ánime y otros\Universidad\Ciclo 03 - 2019\PRG1\Proyecto3\ProyectoPresupuestos\CapaSQL\obj\Debug\CapaSQL.pdb
